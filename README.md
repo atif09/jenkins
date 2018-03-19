@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jenkins
 
 #### Table of Contents
@@ -87,3 +88,6 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+=======
+# jenkins
+>>>>>>> 57b0840b72b7db68099804ab19dd5b9e0aaa6c23
